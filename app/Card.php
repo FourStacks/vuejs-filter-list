@@ -26,6 +26,8 @@ class Card extends Model
         'attack',
         'health',
         'text',
-        'flavor'
+        'summary'
     ];
+
+    public $timestamps = false;
 }

@@ -21,7 +21,7 @@ class AddCardsTable extends Migration
             $table->integer('attack');
             $table->integer('health');
             $table->string('text');
-            $table->string('flavor');
+            $table->string('summary');
         });
     }
 
