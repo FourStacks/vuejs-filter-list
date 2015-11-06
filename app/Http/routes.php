@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [
+    'as' => 'getVueListDemo', 'uses' => 'DemoController@getVueListDemo'
+]);
