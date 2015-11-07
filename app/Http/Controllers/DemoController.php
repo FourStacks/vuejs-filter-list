@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Card;
-use App\CardMechanic;
+use App\Mechanic;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -14,7 +14,7 @@ class DemoController extends Controller
 
     public function getVueListDemo()
     {
-        return CardMechanic::all();
+        return Mechanic::all();
         //return view('vueListDemo');
     }
 }

@@ -29,4 +29,9 @@ class Card extends Model
     ];
 
     public $timestamps = false;
+
+    public function cardMechanics()
+    {
+        return $this->belongsToMany('App\CardMechanic');
+    }
 }

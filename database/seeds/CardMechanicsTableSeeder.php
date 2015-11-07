@@ -1,9 +1,9 @@
 <?php
 
-use App\CardMechanic;
+use App\Mechanic;
 use Illuminate\Database\Seeder;
 
-class CardMechanicsTableSeeder extends Seeder
+class MechanicsTableSeeder extends Seeder
 {
 
     private $mechanics = [
@@ -33,10 +33,10 @@ class CardMechanicsTableSeeder extends Seeder
      */
     public function run()
     {
-        DB::table('card_mechanics')->delete();
+        DB::table('mechanics')->delete();
 
         foreach($this->mechanics as $mechanic){
-            CardMechanic::create([
+            Mechanic::create([
                 'name' => $mechanic
             ]);
         }
