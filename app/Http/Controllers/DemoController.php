@@ -14,7 +14,7 @@ class DemoController extends Controller
 
     public function getVueListDemo()
     {
-        return Mechanic::all();
+        return Card::with('mechanics')->get();
         //return view('vueListDemo');
     }
 }

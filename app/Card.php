@@ -30,8 +30,8 @@ class Card extends Model
 
     public $timestamps = false;
 
-    public function cardMechanics()
+    public function mechanics()
     {
-        return $this->belongsToMany('App\CardMechanic');
+        return $this->belongsToMany('App\Mechanic');
     }
 }

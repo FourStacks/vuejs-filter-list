@@ -19,7 +19,8 @@ class CardTableSeeder extends Seeder
         $cards = json_decode($cardsJson);
 
         foreach ($cards as $card) {
-            Card::create([
+
+            $cardModel = Card::create([
                 'name' => $card->name,
                 'type' => $card->type,
                 'rarity' => (isset($card->rarity)) ? $card->rarity : 'N/A',
@@ -28,6 +29,11 @@ class CardTableSeeder extends Seeder
                 'health' => (isset($card->health)) ? $card->health : 'N/A',
                 'text' => (isset($card->flavor)) ? $card->flavor : 'N/A'
             ]);
+
+            if( isset($card->mechanics) ){
+                $cardModel->mechanics()->attach($card->mechanics);
+            }
+
         }
     }
 }

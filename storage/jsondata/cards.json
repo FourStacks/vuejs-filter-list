@@ -13,8 +13,8 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "mechanics": [
-        "Deathrattle",
-        "Taunt"
+        7,
+        2
       ]
     },
     {
@@ -31,7 +31,7 @@
       "artist": "Luca Zontini",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -62,10 +62,10 @@
       "elite": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Charge",
-        "Divine Shield",
-        "Taunt",
-        "Windfury"
+        10,
+        16,
+        2,
+        17
       ]
     },
     {
@@ -97,7 +97,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -116,7 +116,7 @@
       "elite": true,
       "race": "Dragon",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -133,7 +133,7 @@
       "artist": "Chippy",
       "collectible": true,
       "mechanics": [
-        "Enrage"
+        6
       ]
     },
     {
@@ -163,7 +163,7 @@
       "artist": "Bernie Kang",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -180,7 +180,7 @@
       "artist": "Howard Lyon",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -240,7 +240,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Enrage"
+        6
       ]
     },
     {
@@ -258,7 +258,7 @@
       "collectible": true,
       "playerClass": "Warrior",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -275,8 +275,8 @@
       "artist": "Sedhayu Ardian",
       "collectible": true,
       "mechanics": [
-        "Battlecry",
-        "Charge"
+        1,
+        10
       ]
     },
     {
@@ -309,8 +309,8 @@
       "artist": "James Ryman",
       "collectible": true,
       "mechanics": [
-        "Charge",
-        "Divine Shield"
+        10,
+        16
       ]
     },
     {
@@ -328,7 +328,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -345,7 +345,7 @@
       "artist": "Zoltan & Gabor",
       "collectible": true,
       "mechanics": [
-        "Divine Shield"
+        16
       ]
     },
     {
@@ -379,7 +379,7 @@
       "collectible": true,
       "playerClass": "Priest",
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -413,8 +413,8 @@
       "collectible": true,
       "race": "Dragon",
       "mechanics": [
-        "Battlecry",
-        "Spellpower"
+        1,
+        12
       ]
     },
     {
@@ -497,7 +497,7 @@
       "artist": "Chris Seaman",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -526,7 +526,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "AffectedBySpellPower"
+        15
       ]
     },
     {
@@ -566,7 +566,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Freeze"
+        5
       ]
     },
     {
@@ -585,7 +585,7 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Stealth"
+        11
       ]
     },
     {
@@ -602,7 +602,7 @@
       "artist": "Trent Kaniuga",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -620,8 +620,8 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Deathrattle",
-        "Spellpower"
+        7,
+        12
       ]
     },
     {
@@ -645,7 +645,7 @@
       "collectible": true,
       "race": "Pirate",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -662,7 +662,7 @@
       "collectible": true,
       "race": "Pirate",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -693,7 +693,7 @@
       "collectible": true,
       "playerClass": "Priest",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -711,7 +711,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -729,7 +729,7 @@
       "elite": true,
       "race": "Pirate",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -774,7 +774,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -792,7 +792,7 @@
       "collectible": true,
       "race": "Murloc",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -810,7 +810,7 @@
       "collectible": true,
       "race": "Murloc",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -851,7 +851,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Freeze"
+        5
       ]
     },
     {
@@ -867,7 +867,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -884,7 +884,7 @@
       "artist": "Tom Fleming",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -902,7 +902,7 @@
       "collectible": true,
       "playerClass": "Warrior",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -934,7 +934,7 @@
       "artist": "Scott Hampton",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -965,7 +965,7 @@
       "elite": true,
       "race": "Dragon",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -982,7 +982,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1000,7 +1000,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -1048,7 +1048,7 @@
       "race": "Beast",
       "mechanics": [
         "AdjacentBuff",
-        "Aura"
+        13
       ]
     },
     {
@@ -1080,8 +1080,8 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry",
-        "Charge"
+        1,
+        10
       ]
     },
     {
@@ -1099,8 +1099,8 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload",
-        "Windfury"
+        3,
+        17
       ]
     },
     {
@@ -1130,7 +1130,7 @@
       "collectible": true,
       "race": "Pirate",
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -1145,7 +1145,7 @@
       "race": "Beast",
       "playerClass": "Druid",
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -1175,7 +1175,7 @@
       "race": "Beast",
       "playerClass": "Druid",
       "mechanics": [
-        "Charge"
+        10
       ]
     },
     {
@@ -1193,8 +1193,8 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload",
-        "Windfury"
+        3,
+        17
       ]
     },
     {
@@ -1226,8 +1226,8 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload",
-        "Taunt"
+        3,
+        2
       ]
     },
     {
@@ -1243,7 +1243,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Silence"
+        14
       ]
     },
     {
@@ -1259,7 +1259,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1278,7 +1278,7 @@
       "elite": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -1297,7 +1297,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Poisonous"
+        8
       ]
     },
     {
@@ -1341,7 +1341,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -1370,7 +1370,7 @@
       "collectible": true,
       "playerClass": "Hunter",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -1386,7 +1386,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -1403,7 +1403,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1449,8 +1449,8 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry",
-        "Taunt"
+        1,
+        2
       ]
     },
     {
@@ -1467,7 +1467,7 @@
       "artist": "Monica Langlois",
       "collectible": true,
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -1483,7 +1483,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -1502,7 +1502,7 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1559,7 +1559,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -1575,7 +1575,7 @@
       "collectible": true,
       "playerClass": "Hunter",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -1592,8 +1592,8 @@
       "artist": "Dan Scott",
       "collectible": true,
       "mechanics": [
-        "Battlecry",
-        "Freeze"
+        1,
+        5
       ]
     },
     {
@@ -1673,8 +1673,8 @@
       "elite": true,
       "playerClass": "Warrior",
       "mechanics": [
-        "Charge",
-        "Enrage"
+        10,
+        6
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1725,7 +1725,7 @@
       "collectible": true,
       "race": "Mech",
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -1741,7 +1741,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -1794,7 +1794,7 @@
       "race": "Beast",
       "playerClass": "Hunter",
       "mechanics": [
-        "Charge"
+        10
       ]
     },
     {
@@ -1811,7 +1811,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1839,7 +1839,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -1855,7 +1855,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -1871,7 +1871,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Freeze"
+        5
       ]
     },
     {
@@ -1932,7 +1932,7 @@
       "artist": "Samwise",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1976,7 +1976,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -1994,7 +1994,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Stealth"
+        11
       ]
     },
     {
@@ -2026,7 +2026,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
@@ -2046,7 +2046,7 @@
       "race": "Beast",
       "playerClass": "Hunter",
       "mechanics": [
-        "Charge"
+        10
       ]
     },
     {
@@ -2064,7 +2064,7 @@
       "elite": true,
       "race": "Beast",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2082,7 +2082,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2111,7 +2111,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -2142,8 +2142,8 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Battlecry",
-        "Charge"
+        1,
+        10
       ]
     },
     {
@@ -2160,7 +2160,7 @@
       "artist": "Glenn Rane",
       "collectible": true,
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -2176,7 +2176,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -2192,7 +2192,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -2252,7 +2252,7 @@
       "artist": "Jim Nelson",
       "collectible": true,
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -2283,7 +2283,7 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2315,7 +2315,7 @@
       "artist": "Mike Sass",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2334,7 +2334,7 @@
       "elite": true,
       "race": "Dragon",
       "mechanics": [
-        "Spellpower"
+        12
       ]
     },
     {
@@ -2382,7 +2382,7 @@
       "artist": "Luca Zontini",
       "collectible": true,
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -2425,7 +2425,7 @@
       "collectible": true,
       "playerClass": "Priest",
       "mechanics": [
-        "Silence"
+        14
       ]
     },
     {
@@ -2442,7 +2442,7 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2472,7 +2472,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2489,7 +2489,7 @@
       "artist": "Leo Che",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2518,7 +2518,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -2534,7 +2534,7 @@
       "collectible": true,
       "playerClass": "Hunter",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -2551,7 +2551,7 @@
       "artist": "Cole Eastburn",
       "collectible": true,
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -2624,7 +2624,7 @@
       "collectible": true,
       "race": "Murloc",
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -2669,7 +2669,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -2718,7 +2718,7 @@
       "elite": true,
       "race": "Dragon",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2737,8 +2737,8 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Poisonous",
-        "Stealth"
+        8,
+        11
       ]
     },
     {
@@ -2756,8 +2756,8 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Battlecry",
-        "Combo"
+        1,
+        9
       ]
     },
     {
@@ -2775,7 +2775,7 @@
       "artist": "Ron Spears",
       "collectible": true,
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -2794,7 +2794,7 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2850,7 +2850,7 @@
       "artist": "Dan Scott",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -2911,7 +2911,7 @@
       "artist": "Alex Horley Orlandelli",
       "collectible": true,
       "mechanics": [
-        "Enrage"
+        6
       ]
     },
     {
@@ -2956,7 +2956,7 @@
       "artist": "Ralph Horsley",
       "collectible": true,
       "mechanics": [
-        "Stealth"
+        11
       ]
     },
     {
@@ -2972,7 +2972,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -2988,7 +2988,7 @@
       "collectible": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -3004,7 +3004,7 @@
       "collectible": true,
       "playerClass": "Druid",
       "mechanics": [
-        "AffectedBySpellPower"
+        15
       ]
     },
     {
@@ -3023,7 +3023,7 @@
       "race": "Beast",
       "playerClass": "Hunter",
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -3040,7 +3040,7 @@
       "artist": "Gonzalo Ordonez",
       "collectible": true,
       "mechanics": [
-        "Divine Shield"
+        16
       ]
     },
     {
@@ -3126,7 +3126,7 @@
       "collectible": true,
       "playerClass": "Warlock",
       "mechanics": [
-        "AffectedBySpellPower"
+        15
       ]
     },
     {
@@ -3167,7 +3167,7 @@
       "collectible": true,
       "playerClass": "Warrior",
       "mechanics": [
-        "AffectedBySpellPower"
+        15
       ]
     },
     {
@@ -3184,7 +3184,7 @@
       "artist": "Carl Critchlow",
       "collectible": true,
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -3202,12 +3202,12 @@
       "collectible": true,
       "playerClass": "Rogue",
       "mechanics": [
-        "Combo"
+        9
       ]
     },
     {
       "id": "EX1_332",
-      "name": "Silence",
+      "name": 14,
       "type": "Spell",
       "faction": "Neutral",
       "rarity": "Common",
@@ -3218,7 +3218,7 @@
       "collectible": true,
       "playerClass": "Priest",
       "mechanics": [
-        "Silence"
+        14
       ]
     },
     {
@@ -3235,7 +3235,7 @@
       "artist": "Matt Starbuck",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3252,7 +3252,7 @@
       "artist": "Phroilan Gardner",
       "collectible": true,
       "mechanics": [
-        "Divine Shield"
+        16
       ]
     },
     {
@@ -3306,7 +3306,7 @@
       "collectible": true,
       "playerClass": "Hunter",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -3322,7 +3322,7 @@
       "collectible": true,
       "playerClass": "Hunter",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -3340,7 +3340,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -3370,7 +3370,7 @@
       "collectible": true,
       "race": "Pirate",
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -3401,7 +3401,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -3418,7 +3418,7 @@
       "artist": "Matt Cavotta",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3433,7 +3433,7 @@
       "text": "<b>Taunt</b>",
       "playerClass": "Shaman",
       "mechanics": [
-        "Taunt"
+        2
       ]
     },
     {
@@ -3451,7 +3451,7 @@
       "artist": "Justin Sweet",
       "collectible": true,
       "mechanics": [
-        "Enrage"
+        6
       ]
     },
     {
@@ -3468,7 +3468,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3498,7 +3498,7 @@
       "collectible": true,
       "playerClass": "Shaman",
       "mechanics": [
-        "Overload"
+        3
       ]
     },
     {
@@ -3516,7 +3516,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Stealth"
+        11
       ]
     },
     {
@@ -3535,7 +3535,7 @@
       "collectible": true,
       "playerClass": "Warlock",
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -3552,7 +3552,7 @@
       "artist": "James Ryman",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3569,8 +3569,8 @@
       "artist": "Andrea Uderzo",
       "collectible": true,
       "mechanics": [
-        "Divine Shield",
-        "Taunt"
+        16,
+        2
       ]
     },
     {
@@ -3602,7 +3602,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -3619,8 +3619,8 @@
       "artist": "Paul Warzecha",
       "collectible": true,
       "mechanics": [
-        "Enrage",
-        "Taunt"
+        6,
+        2
       ]
     },
     {
@@ -3637,7 +3637,7 @@
       "collectible": true,
       "playerClass": "Priest",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3656,7 +3656,7 @@
       "elite": true,
       "race": "Beast",
       "mechanics": [
-        "Deathrattle"
+        7
       ]
     },
     {
@@ -3673,7 +3673,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3703,7 +3703,7 @@
       "artist": "Efrem Palacios",
       "collectible": true,
       "mechanics": [
-        "Windfury"
+        17
       ]
     },
     {
@@ -3721,7 +3721,7 @@
       "collectible": true,
       "elite": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3740,9 +3740,9 @@
       "elite": true,
       "playerClass": "Paladin",
       "mechanics": [
-        "Deathrattle",
-        "Divine Shield",
-        "Taunt"
+        7,
+        16,
+        2
       ]
     },
     {
@@ -3757,7 +3757,7 @@
       "text": "<b>Charge</b>.  At the end of the turn, destroy this minion.",
       "playerClass": "Druid",
       "mechanics": [
-        "Charge"
+        10
       ]
     },
     {
@@ -3775,7 +3775,7 @@
       "collectible": true,
       "race": "Dragon",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3844,7 +3844,7 @@
       "collectible": true,
       "playerClass": "Mage",
       "mechanics": [
-        "Secret"
+        4
       ]
     },
     {
@@ -3861,7 +3861,7 @@
       "artist": "John Polidora",
       "collectible": true,
       "mechanics": [
-        "Aura"
+        13
       ]
     },
     {
@@ -3892,7 +3892,7 @@
       "race": "Demon",
       "playerClass": "Warlock",
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
@@ -3922,7 +3922,7 @@
       "artist": "Luke Mancini",
       "collectible": true,
       "mechanics": [
-        "Windfury"
+        17
       ]
     },
     {
@@ -3952,7 +3952,7 @@
       "artist": "Raymond Swanland",
       "collectible": true,
       "mechanics": [
-        "Stealth"
+        11
       ]
     },
     {
@@ -3995,7 +3995,7 @@
       "collectible": true,
       "race": "Beast",
       "mechanics": [
-        "Windfury"
+        17
       ]
     },
     {
@@ -4025,7 +4025,7 @@
       "artist": "Wei Wang",
       "collectible": true,
       "mechanics": [
-        "Battlecry"
+        1
       ]
     },
     {
