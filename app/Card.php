@@ -25,8 +25,7 @@ class Card extends Model
         'cost',
         'attack',
         'health',
-        'text',
-        'summary'
+        'text'
     ];
 
     public $timestamps = false;

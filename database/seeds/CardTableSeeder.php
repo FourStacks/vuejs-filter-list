@@ -26,8 +26,7 @@ class CardTableSeeder extends Seeder
                 'cost' => (isset($card->cost)) ? $card->cost : 'N/A',
                 'attack' => (isset($card->attack)) ? $card->attack : 'N/A',
                 'health' => (isset($card->health)) ? $card->health : 'N/A',
-                'text' => (isset($card->text)) ? $card->text : 'N/A',
-                'summary' => (isset($card->flavor)) ? $card->flavor : 'N/A',
+                'text' => (isset($card->flavor)) ? $card->flavor : 'N/A'
             ]);
         }
     }

@@ -15,6 +15,7 @@ class DatabaseSeeder extends Seeder
         Model::unguard();
 
         $this->call(CardTableSeeder::class);
+        $this->call(CardMechanicsTableSeeder::class);
 
         Model::reguard();
     }
