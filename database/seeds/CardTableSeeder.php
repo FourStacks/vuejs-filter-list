@@ -22,12 +22,12 @@ class CardTableSeeder extends Seeder
             Card::create([
                 'name' => $card->name,
                 'type' => $card->type,
-                'rarity' => (isset($card->rarity)) ?: 'N/A',
-                'cost' => (isset($card->cost)) ?: 'N/A',
-                'attack' => (isset($card->attack)) ?: 'N/A',
-                'health' => (isset($card->health)) ?: 'N/A',
-                'text' => (isset($card->text)) ?: 'N/A',
-                'summary' => (isset($card->flavor)) ?: 'N/A',
+                'rarity' => (isset($card->rarity)) ? $card->rarity : 'N/A',
+                'cost' => (isset($card->cost)) ? $card->cost : 'N/A',
+                'attack' => (isset($card->attack)) ? $card->attack : 'N/A',
+                'health' => (isset($card->health)) ? $card->health : 'N/A',
+                'text' => (isset($card->text)) ? $card->text : 'N/A',
+                'summary' => (isset($card->flavor)) ? $card->flavor : 'N/A',
             ]);
         }
     }

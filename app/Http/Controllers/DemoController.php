@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Card;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -12,6 +13,7 @@ class DemoController extends Controller
 
     public function getVueListDemo()
     {
-        return view('vueListDemo');
+        return Card::all();
+        //return view('vueListDemo');
     }
 }
